@@ -16,3 +16,16 @@ a, span, div {
 li > a {
     background-color: black;
 }
+h1 + p {
+    color: green;
+}
+
+h1 ~ p {
+    color: aqua;
+}
+ul#lista > li:not(.last) {
+    background-color: lawngreen;
+}
+ul#lista > li:nth-child(3) {
+    background-color: red;
+}
