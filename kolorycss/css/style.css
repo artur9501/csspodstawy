@@ -19,3 +19,9 @@ div {
 #hex-skrocony {
     background-color: red;
 }
+#rgb {
+    background-color: rgb(22, 65, 231);
+}
+#rgba {
+    background-color: rgb(22, 45, 231, 0.6);
+}
