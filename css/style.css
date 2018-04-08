@@ -1,3 +1,15 @@
-body {
-    background-color: blue;
+/*selektor znacznika*/
+
+p {
+    color: orange;
+}
+
+/*selektor ID*/
+
+#paragraf {
+    color: aqua;
+}
+
+a, span, div {
+    background-color: red;
 }
