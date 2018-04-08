@@ -13,3 +13,6 @@ p {
 a, span, div {
     background-color: red;
 }
+li > a {
+    background-color: black;
+}
