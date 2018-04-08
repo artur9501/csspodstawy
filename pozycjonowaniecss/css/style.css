@@ -1,3 +1,14 @@
 body {
     background-color: red;
 }
+#pierwszy {
+    background-color: blue;
+    width: 600px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+#drugi {
+    background-color: aqua;
+    width: 600px;
+    height: 100px;
+}
